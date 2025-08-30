@@ -12,19 +12,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://drive.google.com/uc?export=download&id=1SqDIwzFasCBlCEQHlsTP0pf0GGJx9cxM</string>
+            <string>https://dl.iosvizor.net/minecraft-story-mode/Minecraft-Story-Mode-v1-4.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.event.medtech</string>
+          <string>com.telltalegames.MC100</string>
           <key>bundle-version</key>
-          <string>1.0.0</string>
+          <string>1.4.0</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>Med Tech App</string>
+          <string>MCSM</string>
         </dict>
       </dict>
     </array>
